@@ -10,7 +10,7 @@
 
 ![assets](images/photo_2.jpg)
 
-FarmKit focuses on the following three problems:
+FarmKit consists of three parts: Intelligent Agricultural Control Terminal, Robot Surveillance and Control System and the Greenhouse Control System. It focuses on the following three problems:
 
 ## Intelligent Agriculture
 The monitoring system, which based on our intelligent agricultural robot, can be applied to places like vineyards and greenhouses. There are several data acquisition nodes on the robot, these nodes are connected to the Robot Surveillance and Control System via Modbus communication protocol, transmitting the collected environmental data like temperature, humidity and atmospheric pressure to the bus. That is to say, the real-time information like air temperature, air humidity, soil temperature, soil moisture, light intensity and carbon dioxide concentration that related to the growth of crops will be gathered to the Intelligent Agricultural Robot Control Terminal. As a result, researches can easily develop Expert Systems according to the Public data from the Internet, diagnosing the growth conditions and pest status of the crops with the help of these environmental parameters. For managers, they can take a better control of the blinds, fans, irrigation equipment through our Control Terminal and make their strategic decision, which makes intelligent management of agricultural production a reality. 
