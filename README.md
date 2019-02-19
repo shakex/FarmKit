@@ -22,3 +22,4 @@ Instead of walking around the fields to do a lot of field work, farm managers no
 FarmKit filter out the collected data(including temperature, humidity, atmospheric pressure and other environmental data, image data, image data based on the maturity of the fruit, the degree of pest)to ensure that the information is useful to agricultural researchers, farm workers and agriculture-related enterprises. That means people can easily get these shared data via the Internet only if they use the proper technology.
 
 
+For more information, please contact [kxie.cs@gmail.com](mailto:kxie.cs@gmail.com)
